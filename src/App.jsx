@@ -17,7 +17,7 @@ function App() {
       <h1>WeatherWise</h1>
       <Input />
       <Button onClick={weather.fetchData} value='Search'/><br />
-      <h3>Weateher Forecast</h3>
+      <h3>Weather Forecast</h3>
       <Card/><br />
     </div>
   )
